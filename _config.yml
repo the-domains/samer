@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: samer
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1218638
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.04296156
-  brandStrength: 0.3548387
-  lightness: 0.7849463
   brandColors:
     - '#A3BEDF'
     - '#F2FAFC'
     - '#010403'
     - '#436378'
     - '#C60202'
+  brandStrength: 0.3548387
+  lightness: 0.7849463
+  saturation: 0.04296156
   rhythmicContrast: 0.9999581
-typography_spectrum: 0.1218638
-layout_spectrum: 0.4964158
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: samer
+purpose: []
