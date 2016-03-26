@@ -1,6 +1,6 @@
 name: samer
 favicon: null
-layout_spectrum: 0.50865
+layout_spectrum: 0.25096
 typography_spectrum: 0.1218638
 collections:
   - index:
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A3BEDF'
-    - '#F2FAFC'
-    - '#010403'
-    - '#436378'
-    - '#C60202'
+    - '#b07c54'
+    - '#87512d'
+    - '#fee392'
+    - '#393745'
+    - '#d83246'
   brandStrength: 0.3548387
-  lightness: 0.7849463
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
