@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[samer]]></title>
         <description><![CDATA[samer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/samer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 16:44:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 16:52:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/378957ac-c5d8-449a-9ede-f81018cbf454.gif">]]></description>
+            <link>https://thegrid.ai/samer/tulum-mexico/index.html</link>
+            <guid isPermaLink="false">bf93bed8-7190-4bbb-a2d9-911d4385b88b</guid>
+            <pubDate>Sat, 26 Mar 2016 16:52:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bbdeae4-3e20-4346-ba1e-1cf373de8e02.jpg">]]></description>
-            <link>undefinedmexico/index.html</link>
+            <link>https://thegrid.ai/samer/mexico/index.html</link>
             <guid isPermaLink="false">bbcef1fc-f053-44d1-9ff3-994fdbd22e24</guid>
             <pubDate>Sat, 26 Mar 2016 16:44:11 GMT</pubDate>
         </item>
