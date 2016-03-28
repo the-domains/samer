@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[samer]]></title>
-        <description><![CDATA[samer]]></description>
+        <title><![CDATA[Travel Blog]]></title>
+        <description><![CDATA[Travel Blog]]></description>
         <link>https://thegrid.ai/samer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 20:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 20:04:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -25,7 +25,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/378957ac-c5d8-449a-9ede-f81018cbf454.gif">]]></description>
             <link>https://thegrid.ai/samer/tulum-mexico/index.html</link>
             <guid isPermaLink="false">bf93bed8-7190-4bbb-a2d9-911d4385b88b</guid>
-            <pubDate>Mon, 28 Mar 2016 20:01:59 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 20:04:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
