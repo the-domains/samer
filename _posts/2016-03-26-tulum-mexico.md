@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tulum, Mexico'
-datePublished: '2016-03-28T20:01:59.488Z'
-dateModified: '2016-03-28T20:01:54.353Z'
+datePublished: '2016-03-28T20:04:07.614Z'
+dateModified: '2016-03-28T20:02:05.895Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-tulum-mexico.md
