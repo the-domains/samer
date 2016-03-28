@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Travel Blog
 cta:
   domain: null
   bucket: null
