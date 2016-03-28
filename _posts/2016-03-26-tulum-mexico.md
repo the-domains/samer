@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Tulum, Mexico'
-datePublished: '2016-03-28T20:04:07.614Z'
-dateModified: '2016-03-28T20:02:05.895Z'
-title: ''
+description: 'A little taste - more to come!'
+datePublished: '2016-03-28T20:07:40.566Z'
+dateModified: '2016-03-28T20:07:25.248Z'
+title: Mexico and Hong Kong quick snapshots
 author: []
 sourcePath: _posts/2016-03-26-tulum-mexico.md
 published: true
@@ -22,9 +22,9 @@ url: tulum-mexico/index.html
 _type: Article
 
 ---
-Tulum, Mexico
+# Mexico and Hong Kong quick snapshots
 
-A little taste - more to come!
+A little taste of how beautiful the beach was in Tulum, Mexico!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/378957ac-c5d8-449a-9ede-f81018cbf454.gif)
 
 Lantau Island, Hong Kong
